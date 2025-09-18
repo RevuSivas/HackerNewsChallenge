@@ -1,0 +1,197 @@
+{
+  "Version": 1,
+  "WorkspaceRootPath": "C:\\Users\\revat\\source\\repos\\HackerNewsChallenge\\",
+  "Documents": [
+    {
+      "AbsoluteMoniker": "D:0:0:{1CC1518C-588F-43F5-B223-0BD0C289AAC2}|HackerNews.Tests\\HackerNews.Tests.csproj|c:\\users\\revat\\source\\repos\\hackernewschallenge\\hackernews.tests\\newsservicetests.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{1CC1518C-588F-43F5-B223-0BD0C289AAC2}|HackerNews.Tests\\HackerNews.Tests.csproj|solutionrelative:hackernews.tests\\newsservicetests.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{1CC1518C-588F-43F5-B223-0BD0C289AAC2}|HackerNews.Tests\\HackerNews.Tests.csproj|c:\\users\\revat\\source\\repos\\hackernewschallenge\\hackernews.tests\\hackernewsclienttests.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{1CC1518C-588F-43F5-B223-0BD0C289AAC2}|HackerNews.Tests\\HackerNews.Tests.csproj|solutionrelative:hackernews.tests\\hackernewsclienttests.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{A66A18F1-BF5E-4F52-A02C-FA7DD7341262}|HackerNews.Api\\HackerNews.Api.csproj|c:\\users\\revat\\source\\repos\\hackernewschallenge\\hackernews.api\\models\\hackernewsitem.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{A66A18F1-BF5E-4F52-A02C-FA7DD7341262}|HackerNews.Api\\HackerNews.Api.csproj|solutionrelative:hackernews.api\\models\\hackernewsitem.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{A66A18F1-BF5E-4F52-A02C-FA7DD7341262}|HackerNews.Api\\HackerNews.Api.csproj|c:\\users\\revat\\source\\repos\\hackernewschallenge\\hackernews.api\\services\\newsservice.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{A66A18F1-BF5E-4F52-A02C-FA7DD7341262}|HackerNews.Api\\HackerNews.Api.csproj|solutionrelative:hackernews.api\\services\\newsservice.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{A66A18F1-BF5E-4F52-A02C-FA7DD7341262}|HackerNews.Api\\HackerNews.Api.csproj|c:\\users\\revat\\source\\repos\\hackernewschallenge\\hackernews.api\\apiclients\\hackernewsclient.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{A66A18F1-BF5E-4F52-A02C-FA7DD7341262}|HackerNews.Api\\HackerNews.Api.csproj|solutionrelative:hackernews.api\\apiclients\\hackernewsclient.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{A66A18F1-BF5E-4F52-A02C-FA7DD7341262}|HackerNews.Api\\HackerNews.Api.csproj|c:\\users\\revat\\source\\repos\\hackernewschallenge\\hackernews.api\\models\\newsstory.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{A66A18F1-BF5E-4F52-A02C-FA7DD7341262}|HackerNews.Api\\HackerNews.Api.csproj|solutionrelative:hackernews.api\\models\\newsstory.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{A66A18F1-BF5E-4F52-A02C-FA7DD7341262}|HackerNews.Api\\HackerNews.Api.csproj|c:\\users\\revat\\source\\repos\\hackernewschallenge\\hackernews.api\\properties\\launchsettings.json||{90A6B3A7-C1A3-4009-A288-E2FF89E96FA0}",
+      "RelativeMoniker": "D:0:0:{A66A18F1-BF5E-4F52-A02C-FA7DD7341262}|HackerNews.Api\\HackerNews.Api.csproj|solutionrelative:hackernews.api\\properties\\launchsettings.json||{90A6B3A7-C1A3-4009-A288-E2FF89E96FA0}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{A66A18F1-BF5E-4F52-A02C-FA7DD7341262}|HackerNews.Api\\HackerNews.Api.csproj|c:\\users\\revat\\source\\repos\\hackernewschallenge\\hackernews.api\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{A66A18F1-BF5E-4F52-A02C-FA7DD7341262}|HackerNews.Api\\HackerNews.Api.csproj|solutionrelative:hackernews.api\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{A66A18F1-BF5E-4F52-A02C-FA7DD7341262}|HackerNews.Api\\HackerNews.Api.csproj|c:\\users\\revat\\source\\repos\\hackernewschallenge\\hackernews.api\\services\\inewsservice.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{A66A18F1-BF5E-4F52-A02C-FA7DD7341262}|HackerNews.Api\\HackerNews.Api.csproj|solutionrelative:hackernews.api\\services\\inewsservice.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{A66A18F1-BF5E-4F52-A02C-FA7DD7341262}|HackerNews.Api\\HackerNews.Api.csproj|c:\\users\\revat\\source\\repos\\hackernewschallenge\\hackernews.api\\hackernews.api.csproj||{FA3CD31E-987B-443A-9B81-186104E8DAC1}|",
+      "RelativeMoniker": "D:0:0:{A66A18F1-BF5E-4F52-A02C-FA7DD7341262}|HackerNews.Api\\HackerNews.Api.csproj|solutionrelative:hackernews.api\\hackernews.api.csproj||{FA3CD31E-987B-443A-9B81-186104E8DAC1}|"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{A66A18F1-BF5E-4F52-A02C-FA7DD7341262}|HackerNews.Api\\HackerNews.Api.csproj|c:\\users\\revat\\source\\repos\\hackernewschallenge\\hackernews.api\\apiclients\\ihackernewsclient.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{A66A18F1-BF5E-4F52-A02C-FA7DD7341262}|HackerNews.Api\\HackerNews.Api.csproj|solutionrelative:hackernews.api\\apiclients\\ihackernewsclient.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    }
+  ],
+  "DocumentGroupContainers": [
+    {
+      "Orientation": 0,
+      "VerticalTabListWidth": 256,
+      "DocumentGroups": [
+        {
+          "DockedWidth": 229,
+          "SelectedChildIndex": 0,
+          "Children": [
+            {
+              "$type": "Document",
+              "DocumentIndex": 0,
+              "Title": "NewsServiceTests.cs",
+              "DocumentMoniker": "C:\\Users\\revat\\source\\repos\\HackerNewsChallenge\\HackerNews.Tests\\NewsServiceTests.cs",
+              "RelativeDocumentMoniker": "HackerNews.Tests\\NewsServiceTests.cs",
+              "ToolTip": "C:\\Users\\revat\\source\\repos\\HackerNewsChallenge\\HackerNews.Tests\\NewsServiceTests.cs",
+              "RelativeToolTip": "HackerNews.Tests\\NewsServiceTests.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAIoAAAABAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-09-17T22:57:05.812Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 1,
+              "Title": "HackerNewsClientTests.cs",
+              "DocumentMoniker": "C:\\Users\\revat\\source\\repos\\HackerNewsChallenge\\HackerNews.Tests\\HackerNewsClientTests.cs",
+              "RelativeDocumentMoniker": "HackerNews.Tests\\HackerNewsClientTests.cs",
+              "ToolTip": "C:\\Users\\revat\\source\\repos\\HackerNewsChallenge\\HackerNews.Tests\\HackerNewsClientTests.cs",
+              "RelativeToolTip": "HackerNews.Tests\\HackerNewsClientTests.cs",
+              "ViewState": "AgIAADkAAAAAAAAAAAAowEEAAAABAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-09-17T22:51:36.281Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 3,
+              "Title": "NewsService.cs",
+              "DocumentMoniker": "C:\\Users\\revat\\source\\repos\\HackerNewsChallenge\\HackerNews.Api\\Services\\NewsService.cs",
+              "RelativeDocumentMoniker": "HackerNews.Api\\Services\\NewsService.cs",
+              "ToolTip": "C:\\Users\\revat\\source\\repos\\HackerNewsChallenge\\HackerNews.Api\\Services\\NewsService.cs",
+              "RelativeToolTip": "HackerNews.Api\\Services\\NewsService.cs",
+              "ViewState": "AgIAAFQAAAAAAAAAAAAowFwAAAAhAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-09-12T16:13:07.165Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 8,
+              "Title": "INewsService.cs",
+              "DocumentMoniker": "C:\\Users\\revat\\source\\repos\\HackerNewsChallenge\\HackerNews.Api\\Services\\INewsService.cs",
+              "RelativeDocumentMoniker": "HackerNews.Api\\Services\\INewsService.cs",
+              "ToolTip": "C:\\Users\\revat\\source\\repos\\HackerNewsChallenge\\HackerNews.Api\\Services\\INewsService.cs",
+              "RelativeToolTip": "HackerNews.Api\\Services\\INewsService.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAsAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-09-12T16:11:49.277Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 4,
+              "Title": "HackerNewsClient.cs",
+              "DocumentMoniker": "C:\\Users\\revat\\source\\repos\\HackerNewsChallenge\\HackerNews.Api\\ApiClients\\HackerNewsClient.cs",
+              "RelativeDocumentMoniker": "HackerNews.Api\\ApiClients\\HackerNewsClient.cs",
+              "ToolTip": "C:\\Users\\revat\\source\\repos\\HackerNewsChallenge\\HackerNews.Api\\ApiClients\\HackerNewsClient.cs",
+              "RelativeToolTip": "HackerNews.Api\\ApiClients\\HackerNewsClient.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-09-12T16:07:33.007Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 2,
+              "Title": "HackerNewsItem.cs",
+              "DocumentMoniker": "C:\\Users\\revat\\source\\repos\\HackerNewsChallenge\\HackerNews.Api\\Models\\HackerNewsItem.cs",
+              "RelativeDocumentMoniker": "HackerNews.Api\\Models\\HackerNewsItem.cs",
+              "ToolTip": "C:\\Users\\revat\\source\\repos\\HackerNewsChallenge\\HackerNews.Api\\Models\\HackerNewsItem.cs",
+              "RelativeToolTip": "HackerNews.Api\\Models\\HackerNewsItem.cs",
+              "ViewState": "AgIAABkAAAAAAAAAAAAuwBkAAAAtAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-09-12T16:02:48.841Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 6,
+              "Title": "launchSettings.json",
+              "DocumentMoniker": "C:\\Users\\revat\\source\\repos\\HackerNewsChallenge\\HackerNews.Api\\Properties\\launchSettings.json",
+              "RelativeDocumentMoniker": "HackerNews.Api\\Properties\\launchSettings.json",
+              "ToolTip": "C:\\Users\\revat\\source\\repos\\HackerNewsChallenge\\HackerNews.Api\\Properties\\launchSettings.json",
+              "RelativeToolTip": "HackerNews.Api\\Properties\\launchSettings.json",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAABIAAAAvAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.001642|",
+              "WhenOpened": "2025-09-14T11:03:27.735Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 10,
+              "Title": "IHackerNewsClient.cs",
+              "DocumentMoniker": "C:\\Users\\revat\\source\\repos\\HackerNewsChallenge\\HackerNews.Api\\ApiClients\\IHackerNewsClient.cs",
+              "RelativeDocumentMoniker": "HackerNews.Api\\ApiClients\\IHackerNewsClient.cs",
+              "ToolTip": "C:\\Users\\revat\\source\\repos\\HackerNewsChallenge\\HackerNews.Api\\ApiClients\\IHackerNewsClient.cs",
+              "RelativeToolTip": "HackerNews.Api\\ApiClients\\IHackerNewsClient.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAQAAAABAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-09-12T16:06:10.987Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 5,
+              "Title": "NewsStory.cs",
+              "DocumentMoniker": "C:\\Users\\revat\\source\\repos\\HackerNewsChallenge\\HackerNews.Api\\Models\\NewsStory.cs",
+              "RelativeDocumentMoniker": "HackerNews.Api\\Models\\NewsStory.cs",
+              "ToolTip": "C:\\Users\\revat\\source\\repos\\HackerNewsChallenge\\HackerNews.Api\\Models\\NewsStory.cs",
+              "RelativeToolTip": "HackerNews.Api\\Models\\NewsStory.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAkAAAAcAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-09-12T16:03:57.968Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 7,
+              "Title": "Program.cs",
+              "DocumentMoniker": "C:\\Users\\revat\\source\\repos\\HackerNewsChallenge\\HackerNews.Api\\Program.cs",
+              "RelativeDocumentMoniker": "HackerNews.Api\\Program.cs",
+              "ToolTip": "C:\\Users\\revat\\source\\repos\\HackerNewsChallenge\\HackerNews.Api\\Program.cs",
+              "RelativeToolTip": "HackerNews.Api\\Program.cs",
+              "ViewState": "AgIAAAwAAAAAAAAAAAAAADYAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-09-12T15:59:48.095Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 9,
+              "Title": "HackerNews.Api.csproj",
+              "DocumentMoniker": "C:\\Users\\revat\\source\\repos\\HackerNewsChallenge\\HackerNews.Api\\HackerNews.Api.csproj",
+              "RelativeDocumentMoniker": "HackerNews.Api\\HackerNews.Api.csproj",
+              "ToolTip": "C:\\Users\\revat\\source\\repos\\HackerNewsChallenge\\HackerNews.Api\\HackerNews.Api.csproj",
+              "RelativeToolTip": "HackerNews.Api\\HackerNews.Api.csproj",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAABEAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000758|",
+              "WhenOpened": "2025-09-12T16:02:08.808Z"
+            }
+          ]
+        }
+      ]
+    }
+  ]
+}
