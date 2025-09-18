@@ -1,0 +1,35 @@
+<div class="container">
+    <h1>Newest Hacker News</h1>
+
+    <input [formControl]="search" placeholder="Search titles..." class="search" />
+
+    <div class="toolbar">
+        <button (click)="prev()" [disabled]="page === 1">Prev</button>
+        <span>Page {{ page }} / {{ totalPages }}</span>
+        <button (click)="next()" [disabled]="page >= totalPages">Next</button>
+
+        <label class="size">
+            Page size
+            <!-- IMPORTANT: delegate to TS to avoid template typing issues -->
+            <select [value]="pageSize" (change)="onPageSizeChange($event)">
+                <option value="10">10</option>
+                <option value="20">20</option>
+                <option value="50">50</option>
+            </select>
+        </label>
+    </div>
+
+    <div *ngIf="loading" class="muted">Loading…</div>
+    <div *ngIf="error" class="error">{{ error }}</div>
+
+    <ul class="list" *ngIf="!loading && !error && stories.length">
+        <li *ngFor="let s of stories">
+            <a *ngIf="s.url" [href]="s.url" target="_blank" rel="noopener">{{ s.title }}</a>
+            <span *ngIf="!s.url">{{ s.title }}</span>
+            <small>— by {{s.by || 'unknown'}} | {{s.score}} pts | {{s.comments}} comments</small>
+            <a [href]="s.discussionUrl" target="_blank" rel="noopener" class="hn">discussion</a>
+        </li>
+    </ul>
+
+    <p *ngIf="!loading && !error && !stories.length">No stories found.</p>
+</div>

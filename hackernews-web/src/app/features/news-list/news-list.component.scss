@@ -1,0 +1,9 @@
+.container { max-width: 900px; margin: 2rem auto; padding: 0 1rem; }
+.search { width: 100%; padding: .6rem; margin-bottom: 1rem; }
+.toolbar { display: flex; gap: .6rem; align-items: center; margin-bottom: 1rem; flex-wrap: wrap; }
+.size { margin-left: auto; display: inline-flex; gap: .4rem; align-items: center; }
+.list { list-style: none; padding: 0; }
+.list li { padding: .6rem 0; border-bottom: 1px solid #eee; }
+.hn { margin-left: .5rem; }
+.muted { color: #777; }
+.error { color: #b00020; }
