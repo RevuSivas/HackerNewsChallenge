@@ -20,7 +20,7 @@ namespace HackerNews.Api.Services
 
             var storyIds = await cache.GetOrCreateAsync("new:ids", async e =>
             {
-                e.AbsoluteExpirationRelativeToNow = IdListTtl; // TODO: tweak if needed
+                e.AbsoluteExpirationRelativeToNow = IdListTtl;
                 return await hn.GetNewStoryIdsAsync(ct);
             }) ?? Array.Empty<long>();
 
