@@ -16,7 +16,6 @@ export class NewsListComponent implements OnInit {
   pageSize = 20;
   totalPages = 1;
 
-  // Keep this as string control (safer for HTML input binding)
   search = new FormControl('', { nonNullable: true });
 
   loading = false;
